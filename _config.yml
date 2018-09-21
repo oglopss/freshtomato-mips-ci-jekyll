@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: tomato-arm firmwares 中文版
+title: freshtomato-mips firmwares 中文版
 locale: en_US
-description: src-rt-6.x.4708 builds
+description: src-rt builds
 logo: kon.png
 search: true
-url: https://oglopss.github.io/tomato-arm-ci-jekyll/
+url: https://oglopss.github.io/freshtomato-mips-ci-jekyll/
 
 # Jekyll configuration
 
