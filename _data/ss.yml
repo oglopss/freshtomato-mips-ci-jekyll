@@ -15,3 +15,4 @@ files:
   - 0013 r2i freshtomato-K26_RT-N5x-MIPSR2-2018.4.000-140-MiniIPv6.trx
   - 0014 r2j freshtomato-K26_RT-N5x-MIPSR2-2018.4.000-140-MiniVPN.trx
   - 0015 r2f freshtomato-K26_RT-N5x-MIPSR2-2018.4.000-140-Mini.trx
+  - 0018 e1000v2f freshtomato-e1000v2f.tar.gz
