@@ -16,3 +16,4 @@ files:
   - 0012 r2m freshtomato-K26_RT-N5x-MIPSR2-2018.4.000-140-Max.trx
   - 0015 r2f freshtomato-K26_RT-N5x-MIPSR2-2018.4.000-140-Mini.trx
   - 0018 e1000v2f freshtomato-e1000v2f.tar.gz
+  - 0020 e1200v1f freshtomato-E1200v1-NVRAM64K_RT-N5x-MIPSR2-2018.4.000-140-Mini.bin
