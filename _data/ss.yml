@@ -20,3 +20,4 @@ files:
   - 0017 f7d freshtomato-f7d.tar.gz
   - 0016 f5d freshtomato-F5D8235v3USB_RT-N5x-MIPSR2-2018.4.000-140-IPv6-VPN-64K.bin
   - 0020 e1200v1f freshtomato-E1200v1-NVRAM64K_RT-N5x-MIPSR2-2018.4.000-140-Mini.bin
+  - 0021 e1200v1i freshtomato-E1200v1-NVRAM64K_RT-N5x-MIPSR2-2018.4.000-140-MiniIPv6.bin
