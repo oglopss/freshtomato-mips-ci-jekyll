@@ -12,3 +12,4 @@ files:
   - 0010 f5d freshtomato-F5D8235v3USB_RT-N5x-MIPSR2-2018.4.000-140-IPv6-VPN-64K.bin
   - 0012 e1000v2f freshtomato-e1000v2f.tar.gz
   - 0014 e1200v1f freshtomato-E1200v1-NVRAM64K_RT-N5x-MIPSR2-2018.4.000-140-Mini.bin
+  - 0013 e1000v2i freshtomato-e1000v2i.tar.gz
