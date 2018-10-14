@@ -2,3 +2,4 @@ build: 39
 files:
   - 0002 r2c freshtomato-K26USB_RT-N5x-MIPSR2-2018.4.000-2018.4-BTgui-VPN.trx
   - 0005 r2u freshtomato-K26USB_RT-N5x-MIPSR2-2018.4.000-2018.4-BT.trx
+  - 0001 r2e freshtomato-K26USB_RT-N5x-MIPSR2-2018.4.000-2018.4-VPN.trx
